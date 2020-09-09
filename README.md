@@ -1,14 +1,16 @@
-# Secret Lodge
+# Terra Chimera
 
-Rules for the tabletop game Secret Lodge.
+Rules for the tabletop game Terra Chimera.
+
 A work in progress by Geoff Maddock
 
 ## STORY
-High espionage, industrial fantasy and occult intrigue in a tumultuous "steam era" London.   Each lodge competes to gain power amongst exploding and competitive industry - but all is not as its seems!  Behind each lodge is an even more insidious secret society, attempting to unleash their plot and rise to power and infamy.
+Combination of Pokemon, Terra Mystica where players develop their team through science, magic and cookery with cute mutant monsters,
+while exploring and adventuring in a fantasy world and battling to be the terra chimera champion.
  
 ## Rules
-See the **[GAME RULES](SECRET%20LODGE%20-%20GAME%20RULES.md)** for any questions or details.
+See the **[GAME RULES](TerraChimera-GameRules.md)** for any questions or details.
 
-See the **[QUICK SETUP](SECRET%20LODGE%20-%20Quick%20Setup.md)** for stripped down set of rules to get started playing.
+See the **[QUICK SETUP](TerraChimera-QuickSetup.md)** for stripped down set of rules to get started playing.
 
-See the **[CHEAT SHEET](SECRET%20LODGE%20-%20Cheat%20Sheet.md)** for a very brief checklist of rules.
+See the **[CHEAT SHEET](TerraChimera-CheatSheet.md)** for a very brief checklist of rules.
